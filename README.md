@@ -1,3 +1,3 @@
 # audience-analysis
 
-A quick demo of a flash-based brochure about Audience Analysis for Sci-Tech Comm
+A quick demo of a Flash-based brochure about Audience Analysis for my Sci-Tech Comm class.
